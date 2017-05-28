@@ -1,4 +1,4 @@
-FROM sonatype/nexus:oss
+FROM sonatype/nexus3:latest
 MAINTAINER Rafael Kansy <rafael.kansy@blue-sharp.de>
 
 # Nexus settings
